@@ -1,0 +1,22 @@
+{
+  "networks": {
+    "connectApi": "mainnet",
+    "local":{
+      "url": "http://0.0.0.0:80",
+      "fallbackUrl": "http://http://ld.baas21.cn",
+      "networkName": "docker",
+      "networkType": "testnet"
+    },
+    "external":{
+      "url": "https://horizon-testnet.stellar.org",
+      "networkName": "stellar",
+      "networkType": "testnet"
+    },
+    "mainnet":{
+      "url": "http://0.0.0.0:80/",
+      "fallbackUrl": "http://ld.baas21.cn/",
+      "networkName": "stellar",
+      "networkType": "mainnet"
+    }
+  }
+}

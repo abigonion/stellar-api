@@ -1,0 +1,1824 @@
+
+> stellar-api@0.0.0 start /home/stellar-api
+> nodemon ./bin/www
+
+[33m[nodemon] 1.17.5[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: *.*[39m
+[32m[nodemon] starting `node ./bin/www`[39m
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: EBADF: bad file descriptor, read
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! stellar-api@0.0.0 start: `nodemon ./bin/www`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the stellar-api@0.0.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /root/.npm/_logs/2019-01-08T03_24_49_974Z-debug.log
+Server Listening on: 3000
+Stellar connection statusCode 200: true
+connectedNetworkUrl http://0.0.0.0:80/
+[0mGET /api/generate-seed [32m200 [0m39.541 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m9.035 ms - 138[0m
+[0mGET /favicon.ico [33m404 [0m7.023 ms - 1750[0m
+[0mGET /api/generate-seed [32m200 [0m6.417 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m12.948 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m7.609 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m7.054 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m5.015 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m6.592 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m6.432 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m6.376 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m6.891 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m6.225 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m6.464 ms - 138[0m
+Server Listening on: 3000
+Stellar connection statusCode 200: true
+connectedNetworkUrl http://0.0.0.0:80/
+[0mGET /api/generate-seed [32m200 [0m40.038 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m12.184 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m6.000 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m11.611 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m5.480 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m5.852 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m8.865 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m12.676 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m18.920 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m6.497 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m5.107 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m5.065 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m6.836 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m6.588 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m6.530 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m6.574 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m6.243 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m6.318 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m9.733 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m6.254 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m5.648 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m6.167 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m6.340 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m12.378 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m5.167 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m7.225 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m5.336 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m5.635 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m5.252 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m5.730 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m6.063 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m5.082 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m4.443 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m5.444 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m5.893 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m5.504 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m5.678 ms - 138[0m
+[0mGET / [32m200 [0m5.528 ms - 207[0m
+[0mGET / [32m200 [0m2.227 ms - 207[0m
+[0mGET /api/generate-seed [32m200 [0m5.197 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m5.352 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m4.244 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m5.496 ms - 138[0m
+[0mGET / [32m200 [0m0.820 ms - 207[0m
+[0mGET / [32m200 [0m2.786 ms - 207[0m
+[0mGET /api/get-balance/GBZXN7PIRZGNMHGA7MUUUF4GWPY5AYPV6LY4UV2GL6VJGIQRXFDNMADI [32m200 [0m409.809 ms - 220[0m
+[0mGET /api/get-balance/GBZXN7PIRZGNMHGA7MUUUF4GWPY5AYPV6LY4UV2GL6VJGIQRXFDNMADI [32m200 [0m7.232 ms - 220[0m
+catch error missing seed needed for creating, signing and sending transaction
+[0mPOST /api/payment?senderSecretSeed=SC5O7VZUXDJ6JBDSZ74DSERXL7W3Y5LTOAMRF7RQRL3TAGAPS7LUVG3L&amount=100&memo=&destinationPublicKey=GCTI6HMWRH2QGMFKWVU5M5ZSOTKL7P7JAHZDMJJBKDHGWTEC4CJ7O3DU [33m404 [0m1.214 ms - 11[0m
+[0mGET /api/get-balance/GBZXN7PIRZGNMHGA7MUUUF4GWPY5AYPV6LY4UV2GL6VJGIQRXFDNMADI [32m200 [0m6.004 ms - 220[0m
+catch error missing seed needed for creating, signing and sending transaction
+[0mPOST /api/payment [33m404 [0m1.068 ms - 11[0m
+[0mPOST /payment [33m404 [0m1.735 ms - 1923[0m
+catch error missing seed needed for creating, signing and sending transaction
+[0mPOST /api/payment [33m404 [0m0.488 ms - 11[0m
+catch error missing seed needed for creating, signing and sending transaction
+[0mPOST /api/payment [33m404 [0m0.476 ms - 11[0m
+[0mGET /api/get-balance/GBZXN7PIRZGNMHGA7MUUUF4GWPY5AYPV6LY4UV2GL6VJGIQRXFDNMADI [32m200 [0m12.172 ms - 220[0m
+catch error missing seed needed for creating, signing and sending transaction
+[0mPOST /api/payment [33m404 [0m0.428 ms - 11[0m
+catch error missing seed needed for creating, signing and sending transaction
+[0mPOST /api/payment [33m404 [0m0.441 ms - 11[0m
+catch error missing seed needed for creating, signing and sending transaction
+[0mPOST /api/payment [33m404 [0m1.652 ms - 11[0m
+catch error missing seed needed for creating, signing and sending transaction
+[0mPOST /api/payment [33m404 [0m0.486 ms - 11[0m
+error:  { type: 'https://stellar.org/horizon-errors/transaction_failed',
+  title: 'Transaction Failed',
+  status: 400,
+  detail: 'The transaction failed when submitted to the stellar network. The `extras.result_codes` field on this response contains further details.  Descriptions of each code can be found at: https://www.stellar.org/developers/learn/concepts/list-of-operations.html',
+  extras: 
+   { envelope_xdr: 'AAAAAHN2/eiOTNYcwPspSheGs/HQYfXy8cpXRl+qkyIRuUbWAAAAZAAAAAAAAAABAAAAAAAAAAEAAAAMU2VudCBQYXltZW50AAAAAQAAAAAAAAABAAAAAKaPHZaJ9QMwqrVp1ncydNS/v+kB8jYlIVDOa0yC4JP3AAAAAAAAAAA7msoAAAAAAAAAAAERuUbWAAAAQKyTbNTWE52e9hE5VVXEbw9gcmOjz7Uwd7qa8LVWEMNXcrbUGvL5/4l7U5JR8BBBZrEPHaBeUyvLfs8Lf7JdGQM=',
+     result_codes: { transaction: 'tx_bad_auth' },
+     result_xdr: 'AAAAAAAAAGT////6AAAAAA==' } }
+[0mPOST /api/payment [33m404 [0m345.046 ms - 1017[0m
+error:  { type: 'https://stellar.org/horizon-errors/transaction_failed',
+  title: 'Transaction Failed',
+  status: 400,
+  detail: 'The transaction failed when submitted to the stellar network. The `extras.result_codes` field on this response contains further details.  Descriptions of each code can be found at: https://www.stellar.org/developers/learn/concepts/list-of-operations.html',
+  extras: 
+   { envelope_xdr: 'AAAAAHN2/eiOTNYcwPspSheGs/HQYfXy8cpXRl+qkyIRuUbWAAAAZAAAAAAAAAABAAAAAAAAAAEAAAAMU2VudCBQYXltZW50AAAAAQAAAAAAAAABAAAAAKaPHZaJ9QMwqrVp1ncydNS/v+kB8jYlIVDOa0yC4JP3AAAAAAAAAAA7msoAAAAAAAAAAAERuUbWAAAAQKyTbNTWE52e9hE5VVXEbw9gcmOjz7Uwd7qa8LVWEMNXcrbUGvL5/4l7U5JR8BBBZrEPHaBeUyvLfs8Lf7JdGQM=',
+     result_codes: { transaction: 'tx_bad_auth' },
+     result_xdr: 'AAAAAAAAAGT////6AAAAAA==' } }
+[0mPOST /api/payment [33m404 [0m19.729 ms - 1027[0m
+[0mGET /api/get-balance/GBZXN7PIRZGNMHGA7MUUUF4GWPY5AYPV6LY4UV2GL6VJGIQRXFDNMADI [32m200 [0m11.949 ms - 220[0m
+[0mGET /api/get-balance/GBZXN7PIRZGNMHGA7MUUUF4GWPY5AYPV6LY4UV2GL6VJGIQRXFDNMADI [32m200 [0m6.057 ms - 220[0m
+Server Listening on: 3000
+Stellar connection statusCode 200: true
+connectedNetworkUrl https://sudo38.com/
+[0mGET /api/generate-seed [32m200 [0m29.467 ms - 138[0m
+[0mGET /api/get-balance/GBZXN7PIRZGNMHGA7MUUUF4GWPY5AYPV6LY4UV2GL6VJGIQRXFDNMADI [32m200 [0m233.209 ms - 467[0m
+Server Listening on: 3000
+Stellar connection statusCode 200: true
+connectedNetworkUrl http://0.0.0.0:80/
+[0mGET /api/get-balance/GBZXN7PIRZGNMHGA7MUUUF4GWPY5AYPV6LY4UV2GL6VJGIQRXFDNMADI [32m200 [0m27.773 ms - 220[0m
+[0mGET /api/generate-seed [32m200 [0m34.792 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m12.716 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m5.815 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m10.173 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m4.728 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m7.618 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m4.838 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m5.947 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m6.207 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m6.296 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m6.582 ms - 138[0m
+[0mGET / [32m200 [0m7.489 ms - 207[0m
+[0mGET / [32m200 [0m3.830 ms - 207[0m
+[0mGET /api/generate-seed [32m200 [0m6.253 ms - 138[0m
+[0mGET / [32m200 [0m1.396 ms - 207[0m
+[0mGET /stylesheets/style.css [32m200 [0m4.276 ms - 111[0m
+[0mGET /favicon.ico [33m404 [0m2.384 ms - 1750[0m
+[0mGET /api/generate-seed [32m200 [0m6.003 ms - 138[0m
+Server Listening on: 3000
+Stellar connection statusCode 200: true
+connectedNetworkUrl http://0.0.0.0:80/
+error:  { Error: Request failed with status code 400
+    at createError (/home/stellar-api/node_modules/axios/lib/core/createError.js:16:15)
+    at settle (/home/stellar-api/node_modules/axios/lib/core/settle.js:18:12)
+    at IncomingMessage.handleStreamEnd (/home/stellar-api/node_modules/axios/lib/adapters/http.js:201:11)
+    at emitNone (events.js:110:20)
+    at IncomingMessage.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1059:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  config: 
+   { adapter: [Function: httpAdapter],
+     transformRequest: { '0': [Function: transformRequest] },
+     transformResponse: { '0': [Function: transformResponse] },
+     timeout: 0,
+     xsrfCookieName: 'XSRF-TOKEN',
+     xsrfHeaderName: 'X-XSRF-TOKEN',
+     maxContentLength: -1,
+     validateStatus: [Function: validateStatus],
+     headers: 
+      { Accept: 'application/json, text/plain, */*',
+        'User-Agent': 'axios/0.18.0' },
+     method: 'get',
+     url: 'http://0.0.0.0:80/accounts/GCTI6HMWRH2QGMFKWVU5M5ZSOTKL7P7JAHZDMJJBKDHGWTEC4CJ7O3DD?c=0.9370427824387597',
+     data: undefined },
+  request: 
+   ClientRequest {
+     domain: null,
+     _events: 
+      { socket: [Function],
+        abort: [Function],
+        aborted: [Function],
+        error: [Function],
+        timeout: [Function],
+        prefinish: [Function: requestOnPrefinish] },
+     _eventsCount: 6,
+     _maxListeners: undefined,
+     output: [],
+     outputEncodings: [],
+     outputCallbacks: [],
+     outputSize: 0,
+     writable: false,
+     _last: true,
+     upgrading: false,
+     chunkedEncoding: false,
+     shouldKeepAlive: false,
+     useChunkedEncodingByDefault: false,
+     sendDate: false,
+     _removedConnection: false,
+     _removedContLen: false,
+     _removedTE: false,
+     _contentLength: 0,
+     _hasBody: true,
+     _trailer: '',
+     finished: true,
+     _headerSent: true,
+     socket: 
+      Socket {
+        connecting: false,
+        _hadError: false,
+        _handle: null,
+        _parent: null,
+        _host: null,
+        _readableState: [Object],
+        readable: false,
+        domain: null,
+        _events: [Object],
+        _eventsCount: 8,
+        _maxListeners: undefined,
+        _writableState: [Object],
+        writable: false,
+        allowHalfOpen: false,
+        _bytesDispatched: 207,
+        _sockname: null,
+        _pendingData: null,
+        _pendingEncoding: '',
+        server: null,
+        _server: null,
+        parser: null,
+        _httpMessage: [Circular],
+        read: [Function],
+        _consuming: true,
+        _idleNext: null,
+        _idlePrev: null,
+        _idleTimeout: -1,
+        [Symbol(asyncId)]: 33,
+        [Symbol(bytesRead)]: 546 },
+     connection: 
+      Socket {
+        connecting: false,
+        _hadError: false,
+        _handle: null,
+        _parent: null,
+        _host: null,
+        _readableState: [Object],
+        readable: false,
+        domain: null,
+        _events: [Object],
+        _eventsCount: 8,
+        _maxListeners: undefined,
+        _writableState: [Object],
+        writable: false,
+        allowHalfOpen: false,
+        _bytesDispatched: 207,
+        _sockname: null,
+        _pendingData: null,
+        _pendingEncoding: '',
+        server: null,
+        _server: null,
+        parser: null,
+        _httpMessage: [Circular],
+        read: [Function],
+        _consuming: true,
+        _idleNext: null,
+        _idlePrev: null,
+        _idleTimeout: -1,
+        [Symbol(asyncId)]: 33,
+        [Symbol(bytesRead)]: 546 },
+     _header: 'GET /accounts/GCTI6HMWRH2QGMFKWVU5M5ZSOTKL7P7JAHZDMJJBKDHGWTEC4CJ7O3DD?c=0.9370427824387597 HTTP/1.1\r\nAccept: application/json, text/plain, */*\r\nUser-Agent: axios/0.18.0\r\nHost: 0.0.0.0\r\nConnection: close\r\n\r\n',
+     _onPendingData: [Function: noopPendingOutput],
+     agent: 
+      Agent {
+        domain: null,
+        _events: [Object],
+        _eventsCount: 1,
+        _maxListeners: undefined,
+        defaultPort: 80,
+        protocol: 'http:',
+        options: [Object],
+        requests: {},
+        sockets: [Object],
+        freeSockets: {},
+        keepAliveMsecs: 1000,
+        keepAlive: false,
+        maxSockets: Infinity,
+        maxFreeSockets: 256 },
+     socketPath: undefined,
+     timeout: undefined,
+     method: 'GET',
+     path: '/accounts/GCTI6HMWRH2QGMFKWVU5M5ZSOTKL7P7JAHZDMJJBKDHGWTEC4CJ7O3DD?c=0.9370427824387597',
+     _ended: true,
+     res: 
+      IncomingMessage {
+        _readableState: [Object],
+        readable: false,
+        domain: null,
+        _events: [Object],
+        _eventsCount: 3,
+        _maxListeners: undefined,
+        socket: [Object],
+        connection: [Object],
+        httpVersionMajor: 1,
+        httpVersionMinor: 1,
+        httpVersion: '1.1',
+        complete: true,
+        headers: [Object],
+        rawHeaders: [Array],
+        trailers: {},
+        rawTrailers: [],
+        upgrade: false,
+        url: '',
+        method: null,
+        statusCode: 400,
+        statusMessage: 'Bad Request',
+        client: [Object],
+        _consuming: true,
+        _dumped: false,
+        req: [Circular],
+        responseUrl: 'http://0.0.0.0:80/accounts/GCTI6HMWRH2QGMFKWVU5M5ZSOTKL7P7JAHZDMJJBKDHGWTEC4CJ7O3DD?c=0.9370427824387597',
+        redirects: [],
+        read: [Function] },
+     aborted: undefined,
+     timeoutCb: null,
+     upgradeOrConnect: false,
+     parser: null,
+     maxHeadersCount: null,
+     _redirectable: 
+      Writable {
+        _writableState: [Object],
+        writable: true,
+        domain: null,
+        _events: [Object],
+        _eventsCount: 2,
+        _maxListeners: undefined,
+        _options: [Object],
+        _redirectCount: 0,
+        _redirects: [],
+        _requestBodyLength: 0,
+        _requestBodyBuffers: [],
+        _onNativeResponse: [Function],
+        _currentRequest: [Circular],
+        _currentUrl: 'http://0.0.0.0:80/accounts/GCTI6HMWRH2QGMFKWVU5M5ZSOTKL7P7JAHZDMJJBKDHGWTEC4CJ7O3DD?c=0.9370427824387597' },
+     [Symbol(outHeadersKey)]: { accept: [Array], 'user-agent': [Array], host: [Array] } },
+  response: 
+   { status: 400,
+     statusText: 'Bad Request',
+     headers: 
+      { 'cache-control': 'no-cache, no-store, max-age=0',
+        'content-type': 'application/problem+json; charset=utf-8',
+        vary: 'Origin',
+        'x-ratelimit-limit': '101',
+        'x-ratelimit-remaining': '100',
+        'x-ratelimit-reset': '1',
+        date: 'Thu, 10 Jan 2019 05:52:02 GMT',
+        'content-length': '252',
+        connection: 'close' },
+     config: 
+      { adapter: [Function: httpAdapter],
+        transformRequest: [Object],
+        transformResponse: [Object],
+        timeout: 0,
+        xsrfCookieName: 'XSRF-TOKEN',
+        xsrfHeaderName: 'X-XSRF-TOKEN',
+        maxContentLength: -1,
+        validateStatus: [Function: validateStatus],
+        headers: [Object],
+        method: 'get',
+        url: 'http://0.0.0.0:80/accounts/GCTI6HMWRH2QGMFKWVU5M5ZSOTKL7P7JAHZDMJJBKDHGWTEC4CJ7O3DD?c=0.9370427824387597',
+        data: undefined },
+     request: 
+      ClientRequest {
+        domain: null,
+        _events: [Object],
+        _eventsCount: 6,
+        _maxListeners: undefined,
+        output: [],
+        outputEncodings: [],
+        outputCallbacks: [],
+        outputSize: 0,
+        writable: false,
+        _last: true,
+        upgrading: false,
+        chunkedEncoding: false,
+        shouldKeepAlive: false,
+        useChunkedEncodingByDefault: false,
+        sendDate: false,
+        _removedConnection: false,
+        _removedContLen: false,
+        _removedTE: false,
+        _contentLength: 0,
+        _hasBody: true,
+        _trailer: '',
+        finished: true,
+        _headerSent: true,
+        socket: [Object],
+        connection: [Object],
+        _header: 'GET /accounts/GCTI6HMWRH2QGMFKWVU5M5ZSOTKL7P7JAHZDMJJBKDHGWTEC4CJ7O3DD?c=0.9370427824387597 HTTP/1.1\r\nAccept: application/json, text/plain, */*\r\nUser-Agent: axios/0.18.0\r\nHost: 0.0.0.0\r\nConnection: close\r\n\r\n',
+        _onPendingData: [Function: noopPendingOutput],
+        agent: [Object],
+        socketPath: undefined,
+        timeout: undefined,
+        method: 'GET',
+        path: '/accounts/GCTI6HMWRH2QGMFKWVU5M5ZSOTKL7P7JAHZDMJJBKDHGWTEC4CJ7O3DD?c=0.9370427824387597',
+        _ended: true,
+        res: [Object],
+        aborted: undefined,
+        timeoutCb: null,
+        upgradeOrConnect: false,
+        parser: null,
+        maxHeadersCount: null,
+        _redirectable: [Object],
+        [Symbol(outHeadersKey)]: [Object] },
+     data: 
+      { type: 'https://stellar.org/horizon-errors/bad_request',
+        title: 'Bad Request',
+        status: 400,
+        detail: 'The request you sent was invalid in some way',
+        extras: [Object] } } }
+Unhandled rejection TypeError: Converting circular structure to JSON
+    at JSON.stringify (<anonymous>)
+    at stringify (/home/stellar-api/node_modules/express/lib/response.js:1119:12)
+    at ServerResponse.json (/home/stellar-api/node_modules/express/lib/response.js:260:14)
+    at ServerResponse.send (/home/stellar-api/node_modules/express/lib/response.js:158:21)
+    at stellar.getBalance.then.catch (/home/stellar-api/app/controllers/api.js:54:25)
+    at tryCatcher (/home/stellar-api/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/stellar-api/node_modules/bluebird/js/release/promise.js:512:31)
+    at Promise._settlePromise (/home/stellar-api/node_modules/bluebird/js/release/promise.js:569:18)
+    at Promise._settlePromise0 (/home/stellar-api/node_modules/bluebird/js/release/promise.js:614:10)
+    at Promise._settlePromises (/home/stellar-api/node_modules/bluebird/js/release/promise.js:689:18)
+    at Async._drainQueue (/home/stellar-api/node_modules/bluebird/js/release/async.js:133:16)
+    at Async._drainQueues (/home/stellar-api/node_modules/bluebird/js/release/async.js:143:10)
+    at Immediate.Async.drainQueues (/home/stellar-api/node_modules/bluebird/js/release/async.js:17:14)
+    at runCallback (timers.js:781:20)
+    at tryOnImmediate (timers.js:743:5)
+    at processImmediate [as _immediateCallback] (timers.js:714:5)
+Server Listening on: 3000
+Stellar connection statusCode 200: true
+connectedNetworkUrl http://0.0.0.0:80/
+[0mGET /api/generate-seed [32m200 [0m46.053 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m11.487 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m19.632 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m12.816 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m6.215 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m14.236 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m9.137 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m4.982 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m4.658 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m6.714 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m6.650 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m6.659 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m6.546 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m6.401 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m6.247 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m7.996 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m6.204 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m5.902 ms - 138[0m
+[0mGET / [32m200 [0m7.375 ms - 207[0m
+[0mGET /api/generate-seed [32m200 [0m8.829 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m6.180 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m5.221 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m5.277 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m5.515 ms - 138[0m
+[0mGET / [32m200 [0m1.031 ms - 207[0m
+[0mGET / [32m200 [0m0.734 ms - 207[0m
+[0mGET /api/generate-seed [32m200 [0m5.082 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m5.256 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m5.402 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m5.385 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m5.353 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m5.030 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m5.850 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m6.301 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m5.338 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m5.177 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m5.359 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m5.343 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m5.280 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m5.121 ms - 138[0m
+[0mGET / [32m200 [0m0.728 ms - 207[0m
+[0mGET / [32m200 [0m0.746 ms - 207[0m
+[0mGET / [32m200 [0m0.575 ms - 207[0m
+[0mPOST /onvif/device_service [33m404 [0m2.751 ms - 1923[0m
+[0mGET / [32m200 [0m0.669 ms - 207[0m
+[0mGET / [32m200 [0m0.663 ms - 207[0m
+[0mGET / [32m200 [0m0.752 ms - 207[0m
+[0mGET / [32m200 [0m0.662 ms - 207[0m
+[0mGET /favicon.ico [33m404 [0m1.432 ms - 1750[0m
+[0mGET / [32m200 [0m0.712 ms - 207[0m
+[0mGET /api/generate-seed [32m200 [0m4.238 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m4.404 ms - 138[0m
+error:  { type: 'https://stellar.org/horizon-errors/server_error',
+  title: 'Internal Server Error',
+  status: 500,
+  detail: 'An error occurred while processing this request.  This is usually due to a bug within the server software.  Trying this request again may succeed if the bug is transient, otherwise please report this issue to the issue tracker at: https://github.com/stellar/go/services/horizon/internal/issues. Please include this response in your issue.' }
+[0mPOST /api/create-asset [33m404 [0m92.490 ms - 744[0m
+error:  { type: 'https://stellar.org/horizon-errors/server_error',
+  title: 'Internal Server Error',
+  status: 500,
+  detail: 'An error occurred while processing this request.  This is usually due to a bug within the server software.  Trying this request again may succeed if the bug is transient, otherwise please report this issue to the issue tracker at: https://github.com/stellar/go/services/horizon/internal/issues. Please include this response in your issue.' }
+[0mPOST /api/create-asset [33m404 [0m28.991 ms - 744[0m
+[0mPOST /api/create-asset [33m404 [0m0.781 ms - 282[0m
+[0mPOST /api/create-asset [33m404 [0m0.656 ms - 179[0m
+error:  { type: 'https://stellar.org/horizon-errors/server_error',
+  title: 'Internal Server Error',
+  status: 500,
+  detail: 'An error occurred while processing this request.  This is usually due to a bug within the server software.  Trying this request again may succeed if the bug is transient, otherwise please report this issue to the issue tracker at: https://github.com/stellar/go/services/horizon/internal/issues. Please include this response in your issue.' }
+[0mPOST /api/create-asset [33m404 [0m25.300 ms - 722[0m
+error: Server Listening on: 3000
+Stellar connection statusCode 200: true
+connectedNetworkUrl http://0.0.0.0:80/
+Server Listening on: 3000
+Stellar connection statusCode 200: true
+connectedNetworkUrl http://0.0.0.0:80/
+Server Listening on: 3000
+Stellar connection statusCode 200: true
+connectedNetworkUrl http://0.0.0.0:80/
+[0mPOST /api/create-asset [33m404 [0m47.285 ms - 179[0m
+error:  { Error: connect ECONNREFUSED 0.0.0.0:80
+    at Object._errnoException (util.js:1041:11)
+    at _exceptionWithHostPort (util.js:1064:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1153:14)
+  code: 'ECONNREFUSED',
+  errno: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '0.0.0.0',
+  port: 80,
+  config: 
+   { adapter: [Function: httpAdapter],
+     transformRequest: { '0': [Function: transformRequest] },
+     transformResponse: { '0': [Function: transformResponse] },
+     timeout: 0,
+     xsrfCookieName: 'XSRF-TOKEN',
+     xsrfHeaderName: 'X-XSRF-TOKEN',
+     maxContentLength: -1,
+     validateStatus: [Function: validateStatus],
+     headers: 
+      { Accept: 'application/json, text/plain, */*',
+        'User-Agent': 'axios/0.18.0' },
+     method: 'get',
+     url: 'http://0.0.0.0:80/accounts/GCTI6HMWRH2QGMFKWVU5M5ZSOTKL7P7JAHZDMJJBKDHGWTEC4CJ7O3DU?c=0.11742938568480121',
+     data: undefined },
+  request: 
+   Writable {
+     _writableState: 
+      WritableState {
+        objectMode: false,
+        highWaterMark: 16384,
+        finalCalled: false,
+        needDrain: false,
+        ending: false,
+        ended: false,
+        finished: false,
+        destroyed: false,
+        decodeStrings: true,
+        defaultEncoding: 'utf8',
+        length: 0,
+        writing: false,
+        corked: 0,
+        sync: true,
+        bufferProcessing: false,
+        onwrite: [Function: bound onwrite],
+        writecb: null,
+        writelen: 0,
+        bufferedRequest: null,
+        lastBufferedRequest: null,
+        pendingcb: 0,
+        prefinished: false,
+        errorEmitted: false,
+        bufferedRequestCount: 0,
+        corkedRequestsFree: [Object] },
+     writable: true,
+     domain: null,
+     _events: 
+      { response: [Function: handleResponse],
+        error: [Function: handleRequestError] },
+     _eventsCount: 2,
+     _maxListeners: undefined,
+     _options: 
+      { protocol: 'http:',
+        maxRedirects: 21,
+        maxBodyLength: 10485760,
+        path: '/accounts/GCTI6HMWRH2QGMFKWVU5M5ZSOTKL7P7JAHZDMJJBKDHGWTEC4CJ7O3DU?c=0.11742938568480121',
+        method: 'get',
+        headers: [Object],
+        agent: undefined,
+        auth: undefined,
+        hostname: '0.0.0.0',
+        port: '80',
+        nativeProtocols: [Object],
+        pathname: '/accounts/GCTI6HMWRH2QGMFKWVU5M5ZSOTKL7P7JAHZDMJJBKDHGWTEC4CJ7O3DU',
+        search: '?c=0.11742938568480121' },
+     _redirectCount: 0,
+     _redirects: [],
+     _requestBodyLength: 0,
+     _requestBodyBuffers: [],
+     _onNativeResponse: [Function],
+     _currentRequest: 
+      ClientRequest {
+        domain: null,
+        _events: [Object],
+        _eventsCount: 6,
+        _maxListeners: undefined,
+        output: [],
+        outputEncodings: [],
+        outputCallbacks: [],
+        outputSize: 0,
+        writable: false,
+        _last: true,
+        upgrading: false,
+        chunkedEncoding: false,
+        shouldKeepAlive: false,
+        useChunkedEncodingByDefault: false,
+        sendDate: false,
+        _removedConnection: false,
+        _removedContLen: false,
+        _removedTE: false,
+        _contentLength: 0,
+        _hasBody: true,
+        _trailer: '',
+        finished: true,
+        _headerSent: true,
+        socket: [Object],
+        connection: [Object],
+        _header: 'GET /accounts/GCTI6HMWRH2QGMFKWVU5M5ZSOTKL7P7JAHZDMJJBKDHGWTEC4CJ7O3DU?c=0.11742938568480121 HTTP/1.1\r\nAccept: application/json, text/plain, */*\r\nUser-Agent: axios/0.18.0\r\nHost: 0.0.0.0\r\nConnection: close\r\n\r\n',
+        _onPendingData: [Function: noopPendingOutput],
+        agent: [Object],
+        socketPath: undefined,
+        timeout: undefined,
+        method: 'GET',
+        path: '/accounts/GCTI6HMWRH2QGMFKWVU5M5ZSOTKL7P7JAHZDMJJBKDHGWTEC4CJ7O3DU?c=0.11742938568480121',
+        _ended: false,
+        res: null,
+        aborted: undefined,
+        timeoutCb: null,
+        upgradeOrConnect: false,
+        parser: null,
+        maxHeadersCount: null,
+        _redirectable: [Circular],
+        [Symbol(outHeadersKey)]: [Object] },
+     _currentUrl: 'http://0.0.0.0:80/accounts/GCTI6HMWRH2QGMFKWVU5M5ZSOTKL7P7JAHZDMJJBKDHGWTEC4CJ7O3DU?c=0.11742938568480121' },
+  response: undefined }
+Unhandled rejection TypeError: Converting circular structure to JSON
+    at JSON.stringify (<anonymous>)
+    at stringify (/home/stellar-api/node_modules/express/lib/response.js:1119:12)
+    at ServerResponse.json (/home/stellar-api/node_modules/express/lib/response.js:260:14)
+    at ServerResponse.send (/home/stellar-api/node_modules/express/lib/response.js:158:21)
+    at stellar.getBalance.then.catch (/home/stellar-api/app/controllers/api.js:54:25)
+    at tryCatcher (/home/stellar-api/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/stellar-api/node_modules/bluebird/js/release/promise.js:512:31)
+    at Promise._settlePromise (/home/stellar-api/node_modules/bluebird/js/release/promise.js:569:18)
+    at Promise._settlePromise0 (/home/stellar-api/node_modules/bluebird/js/release/promise.js:614:10)
+    at Promise._settlePromises (/home/stellar-api/node_modules/bluebird/js/release/promise.js:689:18)
+    at Async._drainQueue (/home/stellar-api/node_modules/bluebird/js/release/async.js:133:16)
+    at Async._drainQueues (/home/stellar-api/node_modules/bluebird/js/release/async.js:143:10)
+    at Immediate.Async.drainQueues (/home/stellar-api/node_modules/bluebird/js/release/async.js:17:14)
+    at runCallback (timers.js:781:20)
+    at tryOnImmediate (timers.js:743:5)
+    at processImmediate [as _immediateCallback] (timers.js:714:5)
+[0mGET /api/get-balance/GCTI6HMWRH2QGMFKWVU5M5ZSOTKL7P7JAHZDMJJBKDHGWTEC4CJ7O3DU [0m- [0m- ms - -[0m
+error:  { Error: connect ECONNREFUSED 0.0.0.0:80
+    at Object._errnoException (util.js:1041:11)
+    at _exceptionWithHostPort (util.js:1064:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1153:14)
+  code: 'ECONNREFUSED',
+  errno: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '0.0.0.0',
+  port: 80,
+  config: 
+   { adapter: [Function: httpAdapter],
+     transformRequest: { '0': [Function: transformRequest] },
+     transformResponse: { '0': [Function: transformResponse] },
+     timeout: 0,
+     xsrfCookieName: 'XSRF-TOKEN',
+     xsrfHeaderName: 'X-XSRF-TOKEN',
+     maxContentLength: -1,
+     validateStatus: [Function: validateStatus],
+     headers: 
+      { Accept: 'application/json, text/plain, */*',
+        'User-Agent': 'axios/0.18.0' },
+     method: 'get',
+     url: 'http://0.0.0.0:80/accounts/GCTI6HMWRH2QGMFKWVU5M5ZSOTKL7P7JAHZDMJJBKDHGWTEC4CJ7O3DU?c=0.2999117684158812',
+     data: undefined },
+  request: 
+   Writable {
+     _writableState: 
+      WritableState {
+        objectMode: false,
+        highWaterMark: 16384,
+        finalCalled: false,
+        needDrain: false,
+        ending: false,
+        ended: false,
+        finished: false,
+        destroyed: false,
+        decodeStrings: true,
+        defaultEncoding: 'utf8',
+        length: 0,
+        writing: false,
+        corked: 0,
+        sync: true,
+        bufferProcessing: false,
+        onwrite: [Function: bound onwrite],
+        writecb: null,
+        writelen: 0,
+        bufferedRequest: null,
+        lastBufferedRequest: null,
+        pendingcb: 0,
+        prefinished: false,
+        errorEmitted: false,
+        bufferedRequestCount: 0,
+        corkedRequestsFree: [Object] },
+     writable: true,
+     domain: null,
+     _events: 
+      { response: [Function: handleResponse],
+        error: [Function: handleRequestError] },
+     _eventsCount: 2,
+     _maxListeners: undefined,
+     _options: 
+      { protocol: 'http:',
+        maxRedirects: 21,
+        maxBodyLength: 10485760,
+        path: '/accounts/GCTI6HMWRH2QGMFKWVU5M5ZSOTKL7P7JAHZDMJJBKDHGWTEC4CJ7O3DU?c=0.2999117684158812',
+        method: 'get',
+        headers: [Object],
+        agent: undefined,
+        auth: undefined,
+        hostname: '0.0.0.0',
+        port: '80',
+        nativeProtocols: [Object],
+        pathname: '/accounts/GCTI6HMWRH2QGMFKWVU5M5ZSOTKL7P7JAHZDMJJBKDHGWTEC4CJ7O3DU',
+        search: '?c=0.2999117684158812' },
+     _redirectCount: 0,
+     _redirects: [],
+     _requestBodyLength: 0,
+     _requestBodyBuffers: [],
+     _onNativeResponse: [Function],
+     _currentRequest: 
+      ClientRequest {
+        domain: null,
+        _events: [Object],
+        _eventsCount: 6,
+        _maxListeners: undefined,
+        output: [],
+        outputEncodings: [],
+        outputCallbacks: [],
+        outputSize: 0,
+        writable: false,
+        _last: true,
+        upgrading: false,
+        chunkedEncoding: false,
+        shouldKeepAlive: false,
+        useChunkedEncodingByDefault: false,
+        sendDate: false,
+        _removedConnection: false,
+        _removedContLen: false,
+        _removedTE: false,
+        _contentLength: 0,
+        _hasBody: true,
+        _trailer: '',
+        finished: true,
+        _headerSent: true,
+        socket: [Object],
+        connection: [Object],
+        _header: 'GET /accounts/GCTI6HMWRH2QGMFKWVU5M5ZSOTKL7P7JAHZDMJJBKDHGWTEC4CJ7O3DU?c=0.2999117684158812 HTTP/1.1\r\nAccept: application/json, text/plain, */*\r\nUser-Agent: axios/0.18.0\r\nHost: 0.0.0.0\r\nConnection: close\r\n\r\n',
+        _onPendingData: [Function: noopPendingOutput],
+        agent: [Object],
+        socketPath: undefined,
+        timeout: undefined,
+        method: 'GET',
+        path: '/accounts/GCTI6HMWRH2QGMFKWVU5M5ZSOTKL7P7JAHZDMJJBKDHGWTEC4CJ7O3DU?c=0.2999117684158812',
+        _ended: false,
+        res: null,
+        aborted: undefined,
+        timeoutCb: null,
+        upgradeOrConnect: false,
+        parser: null,
+        maxHeadersCount: null,
+        _redirectable: [Circular],
+        [Symbol(outHeadersKey)]: [Object] },
+     _currentUrl: 'http://0.0.0.0:80/accounts/GCTI6HMWRH2QGMFKWVU5M5ZSOTKL7P7JAHZDMJJBKDHGWTEC4CJ7O3DU?c=0.2999117684158812' },
+  response: undefined }
+Unhandled rejection TypeError: Converting circular structure to JSON
+    at JSON.stringify (<anonymous>)
+    at stringify (/home/stellar-api/node_modules/express/lib/response.js:1119:12)
+    at ServerResponse.json (/home/stellar-api/node_modules/express/lib/response.js:260:14)
+    at ServerResponse.send (/home/stellar-api/node_modules/express/lib/response.js:158:21)
+    at stellar.getBalance.then.catch (/home/stellar-api/app/controllers/api.js:54:25)
+    at tryCatcher (/home/stellar-api/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/stellar-api/node_modules/bluebird/js/release/promise.js:512:31)
+    at Promise._settlePromise (/home/stellar-api/node_modules/bluebird/js/release/promise.js:569:18)
+    at Promise._settlePromise0 (/home/stellar-api/node_modules/bluebird/js/release/promise.js:614:10)
+    at Promise._settlePromises (/home/stellar-api/node_modules/bluebird/js/release/promise.js:689:18)
+    at Async._drainQueue (/home/stellar-api/node_modules/bluebird/js/release/async.js:133:16)
+    at Async._drainQueues (/home/stellar-api/node_modules/bluebird/js/release/async.js:143:10)
+    at Immediate.Async.drainQueues (/home/stellar-api/node_modules/bluebird/js/release/async.js:17:14)
+    at runCallback (timers.js:781:20)
+    at tryOnImmediate (timers.js:743:5)
+    at processImmediate [as _immediateCallback] (timers.js:714:5)
+Server Listening on: 3000
+Stellar connection statusCode 200: true
+connectedNetworkUrl http://0.0.0.0:80/
+[0mPOST /api/generate-seed [33m404 [0m7.806 ms - 1906[0m
+[0mPOST /api/generate-seed [33m404 [0m1.533 ms - 1906[0m
+[0mGET /api/generate-seed [32m200 [0m27.616 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m12.892 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m7.781 ms - 138[0m
+[0mPOST /api/create-asset [33m404 [0m622.835 ms - 334[0m
+[0mPOST /api/payment [32m200 [0m3784.087 ms - 1929[0m
+[0mPOST /api/payment [33m404 [0m13.326 ms - 357[0m
+[0mPOST /api/payment [33m404 [0m12.629 ms - 355[0m
+[0mPOST /api/payment [33m404 [0m12.600 ms - 357[0m
+[0mPOST /api/payment [33m404 [0m11.655 ms - 362[0m
+[0mPOST /api/payment [33m404 [0m13.786 ms - 357[0m
+[0mPOST /api/trust-asset [32m200 [0m716.956 ms - 1812[0m
+error:  Error: invalid version byte. expected 144, got 48
+    at decodeCheck (/home/stellar-api/node_modules/stellar-base/lib/strkey.js:206:11)
+    at Function.decodeEd25519SecretSeed (/home/stellar-api/node_modules/stellar-base/lib/strkey.js:100:16)
+    at Function.fromSecret (/home/stellar-api/node_modules/stellar-base/lib/keypair.js:233:32)
+    at Stellar.trustAsset (/home/stellar-api/app/services/Stellar.js:529:44)
+    at trustAsset (/home/stellar-api/app/controllers/api.js:340:13)
+    at Layer.handle [as handle_request] (/home/stellar-api/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/stellar-api/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/stellar-api/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/stellar-api/node_modules/express/lib/router/layer.js:95:5)
+    at /home/stellar-api/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/home/stellar-api/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/stellar-api/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/home/stellar-api/node_modules/express/lib/router/index.js:174:3)
+    at router (/home/stellar-api/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/home/stellar-api/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/stellar-api/node_modules/express/lib/router/index.js:317:13)
+    at /home/stellar-api/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/stellar-api/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/stellar-api/node_modules/express/lib/router/index.js:275:10)
+    at /home/stellar-api/node_modules/express/lib/router/index.js:635:15
+    at next (/home/stellar-api/node_modules/express/lib/router/index.js:260:14)
+    at Function.handle (/home/stellar-api/node_modules/express/lib/router/index.js:174:3)
+[0mPOST /api/trust-asset [33m404 [0m2.064 ms - 219[0m
+[0mGET /api/get-balance/GBZXN7PIRZGNMHGA7MUUUF4GWPY5AYPV6LY4UV2GL6VJGIQRXFDNMADI [32m200 [0m6.008 ms - 700[0m
+error:  Error: invalid version byte. expected 144, got 48
+    at decodeCheck (/home/stellar-api/node_modules/stellar-base/lib/strkey.js:206:11)
+    at Function.decodeEd25519SecretSeed (/home/stellar-api/node_modules/stellar-base/lib/strkey.js:100:16)
+    at Function.fromSecret (/home/stellar-api/node_modules/stellar-base/lib/keypair.js:233:32)
+    at Stellar.trustAsset (/home/stellar-api/app/services/Stellar.js:529:44)
+    at trustAsset (/home/stellar-api/app/controllers/api.js:340:13)
+    at Layer.handle [as handle_request] (/home/stellar-api/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/stellar-api/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/stellar-api/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/stellar-api/node_modules/express/lib/router/layer.js:95:5)
+    at /home/stellar-api/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/home/stellar-api/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/stellar-api/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/home/stellar-api/node_modules/express/lib/router/index.js:174:3)
+    at router (/home/stellar-api/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/home/stellar-api/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/stellar-api/node_modules/express/lib/router/index.js:317:13)
+    at /home/stellar-api/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/stellar-api/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/stellar-api/node_modules/express/lib/router/index.js:275:10)
+    at /home/stellar-api/node_modules/express/lib/router/index.js:635:15
+    at next (/home/stellar-api/node_modules/express/lib/router/index.js:260:14)
+    at Function.handle (/home/stellar-api/node_modules/express/lib/router/index.js:174:3)
+[0mPOST /api/trust-asset [33m404 [0m0.948 ms - 218[0m
+[0mPOST /api/issue-asset [33m404 [0m13.660 ms - 240[0m
+[0mPOST /api/issue-asset [33m404 [0m13.727 ms - 240[0m
+[0mPOST /api/issue-asset [33m404 [0m12.097 ms - 240[0m
+[0mPOST /api/issue-asset [33m404 [0m11.734 ms - 240[0m
+[0mPOST /api/issue-asset [33m404 [0m11.723 ms - 239[0m
+[0mPOST /api/issue-asset [33m404 [0m11.730 ms - 239[0m
+[0mGET /api/generate-seed [32m200 [0m8.185 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m6.401 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m5.921 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m5.555 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m5.689 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m5.859 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m5.819 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m6.091 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m5.399 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m5.605 ms - 138[0m
+[0mGET /api/generate-seed [32m200 [0m5.107 ms - 138[0m
+[0mGET /api/get-balance/GCTI6HMWRH2QGMFKWVU5M5ZSOTKL7P7JAHZDMJJBKDHGWTEC4CJ7O3DU [32m200 [0m5.669 ms - 211[0m
+[0mGET /api/generate-seed [32m200 [0m6.751 ms - 138[0m
+(node:27736) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 29): TypeError: Cannot read property 'data' of undefined
+(node:27736) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[0mPOST /api/create-offer [0m- [0m- ms - -[0m
+[0mGET /api/get-balance/GCTI6HMWRH2QGMFKWVU5M5ZSOTKL7P7JAHZDMJJBKDHGWTEC4CJ7O3DU [32m200 [0m11.180 ms - 211[0m
+[0mGET /api/get-balance/GCTI6HMWRH2QGMFKWVU5M5ZSOTKL7P7JAHZDMJJBKDHGWTEC4CJ7O3DU [32m200 [0m5.723 ms - 211[0m
+[0mGET /api/get-balance/GBZXN7PIRZGNMHGA7MUUUF4GWPY5AYPV6LY4UV2GL6VJGIQRXFDNMADI [32m200 [0m5.888 ms - 700[0m
+(node:27736) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 32): TypeError: Cannot read property 'data' of undefined
+[0mPOST /api/create-offer [0m- [0m- ms - -[0m
+(node:27736) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 35): TypeError: Cannot read property 'data' of undefined
+[0mPOST /api/create-offer [0m- [0m- ms - -[0m
+Server Listening on: 3000
+Stellar connection statusCode 200: true
+connectedNetworkUrl http://0.0.0.0:80/
+[0mPOST /api/create-account [33m404 [0m59.790 ms - 309[0m
+[0mPOST /api/create-account [33m404 [0m18.287 ms - 309[0m
+[0mPOST /api/create-account [33m404 [0m16.421 ms - 309[0m
+[0mPOST /api/create-account [33m404 [0m21.809 ms - 309[0m
+[0mPOST /api/create-account [33m404 [0m16.060 ms - 309[0m
+[0mGET /api/generate-seed [32m200 [0m7.861 ms - 138[0m
+error:  { type: 'https://stellar.org/horizon-errors/transaction_failed',
+  title: 'Transaction Failed',
+  status: 400,
+  detail: 'The transaction failed when submitted to the stellar network. The `extras.result_codes` field on this response contains further details.  Descriptions of each code can be found at: https://www.stellar.org/developers/learn/concepts/list-of-operations.html',
+  extras: 
+   { envelope_xdr: 'AAAAAHN2/eiOTNYcwPspSheGs/HQYfXy8cpXRl+qkyIRuUbWAAAAZAAAAAAAAAAIAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAUiJX+fEQpidQehw/TGzpmMAs8w3NvQ7/Sj7/HbIU9HwAAAAABfXhAAAAAAAAAAABEblG1gAAAEBvT7lXq9AGZMcipyyQgnSISN6lwG4dDUgtBV2YEQFbkbvpEvgoZzpSOtJHQKqEOjZuJx+KRQcU908uCUf5jCcI',
+     result_codes: { transaction: 'tx_failed', operations: [Array] },
+     result_xdr: 'AAAAAAAAAGT/////AAAAAQAAAAAAAAAA/////QAAAAA=' } }
+[0mPOST /api/create-account [33m404 [0m2527.022 ms - 1041[0m
+[0mPOST /api/create-account [32m200 [0m4660.834 ms - 1541[0m
+[0mGET /api/get-balance/GBJCEV7Z6EIKMJ2QPIOD6TDM5GMMALHTBXG32DX7JI7P6HNSCT2HZVL5 [32m200 [0m7.098 ms - 210[0m
+error:  { Error: Request failed with status code 400
+    at createError (/home/stellar-api/node_modules/axios/lib/core/createError.js:16:15)
+    at settle (/home/stellar-api/node_modules/axios/lib/core/settle.js:18:12)
+    at IncomingMessage.handleStreamEnd (/home/stellar-api/node_modules/axios/lib/adapters/http.js:201:11)
+    at emitNone (events.js:110:20)
+    at IncomingMessage.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1059:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  config: 
+   { adapter: [Function: httpAdapter],
+     transformRequest: { '0': [Function: transformRequest] },
+     transformResponse: { '0': [Function: transformResponse] },
+     timeout: 60000,
+     xsrfCookieName: 'XSRF-TOKEN',
+     xsrfHeaderName: 'X-XSRF-TOKEN',
+     maxContentLength: -1,
+     validateStatus: [Function: validateStatus],
+     headers: 
+      { Accept: 'application/json, text/plain, */*',
+        'Content-Type': 'application/x-www-form-urlencoded',
+        'User-Agent': 'axios/0.18.0',
+        'Content-Length': 289 },
+     method: 'post',
+     url: 'http://0.0.0.0:80/transactions',
+     data: 'tx=AAAAAFIiV%2FnxEKYnUHocP0xs6ZjALPMNzb0O%2F0o%2B%2Fx2yFPR8AAAAZAAA0ogAAAABAAAAAAAAAAAAAAABAAAAAAAAAAYAAAABbGQAAAAAAACmjx2WifUDMKq1adZ3MnTUv7%2FpAfI2JSFQzmtMguCT9wAAAAEqBfIAAAAAAAAAAAGyFPR8AAAAQOnuKaE%2FE4NdGZrOON28%2BUisfMcmClCUNW5ZJ%2FKuOpT5XYFdCX7aqELk0uAyaDIXEJYC3uChBtfIdff6QttvuQk%3D' },
+  request: 
+   ClientRequest {
+     domain: null,
+     _events: 
+      { socket: [Function],
+        abort: [Function],
+        aborted: [Function],
+        error: [Function],
+        timeout: [Function],
+        prefinish: [Function: requestOnPrefinish] },
+     _eventsCount: 6,
+     _maxListeners: undefined,
+     output: [],
+     outputEncodings: [],
+     outputCallbacks: [],
+     outputSize: 0,
+     writable: false,
+     _last: true,
+     upgrading: false,
+     chunkedEncoding: false,
+     shouldKeepAlive: false,
+     useChunkedEncodingByDefault: true,
+     sendDate: false,
+     _removedConnection: false,
+     _removedContLen: false,
+     _removedTE: false,
+     _contentLength: null,
+     _hasBody: true,
+     _trailer: '',
+     finished: true,
+     _headerSent: true,
+     socket: 
+      Socket {
+        connecting: false,
+        _hadError: false,
+        _handle: null,
+        _parent: null,
+        _host: null,
+        _readableState: [Object],
+        readable: false,
+        domain: null,
+        _events: [Object],
+        _eventsCount: 8,
+        _maxListeners: undefined,
+        _writableState: [Object],
+        writable: false,
+        allowHalfOpen: false,
+        _bytesDispatched: 493,
+        _sockname: null,
+        _pendingData: null,
+        _pendingEncoding: '',
+        server: null,
+        _server: null,
+        parser: null,
+        _httpMessage: [Circular],
+        read: [Function],
+        _consuming: true,
+        _idleNext: null,
+        _idlePrev: null,
+        _idleTimeout: -1,
+        [Symbol(asyncId)]: 341,
+        [Symbol(bytesRead)]: 1114 },
+     connection: 
+      Socket {
+        connecting: false,
+        _hadError: false,
+        _handle: null,
+        _parent: null,
+        _host: null,
+        _readableState: [Object],
+        readable: false,
+        domain: null,
+        _events: [Object],
+        _eventsCount: 8,
+        _maxListeners: undefined,
+        _writableState: [Object],
+        writable: false,
+        allowHalfOpen: false,
+        _bytesDispatched: 493,
+        _sockname: null,
+        _pendingData: null,
+        _pendingEncoding: '',
+        server: null,
+        _server: null,
+        parser: null,
+        _httpMessage: [Circular],
+        read: [Function],
+        _consuming: true,
+        _idleNext: null,
+        _idlePrev: null,
+        _idleTimeout: -1,
+        [Symbol(asyncId)]: 341,
+        [Symbol(bytesRead)]: 1114 },
+     _header: 'POST /transactions HTTP/1.1\r\nAccept: application/json, text/plain, */*\r\nContent-Type: application/x-www-form-urlencoded\r\nUser-Agent: axios/0.18.0\r\nContent-Length: 289\r\nHost: 0.0.0.0\r\nConnection: close\r\n\r\n',
+     _onPendingData: [Function: noopPendingOutput],
+     agent: 
+      Agent {
+        domain: null,
+        _events: [Object],
+        _eventsCount: 1,
+        _maxListeners: undefined,
+        defaultPort: 80,
+        protocol: 'http:',
+        options: [Object],
+        requests: {},
+        sockets: {},
+        freeSockets: {},
+        keepAliveMsecs: 1000,
+        keepAlive: false,
+        maxSockets: Infinity,
+        maxFreeSockets: 256 },
+     socketPath: undefined,
+     timeout: undefined,
+     method: 'POST',
+     path: '/transactions',
+     _ended: true,
+     res: 
+      IncomingMessage {
+        _readableState: [Object],
+        readable: false,
+        domain: null,
+        _events: [Object],
+        _eventsCount: 3,
+        _maxListeners: undefined,
+        socket: [Object],
+        connection: [Object],
+        httpVersionMajor: 1,
+        httpVersionMinor: 1,
+        httpVersion: '1.1',
+        complete: true,
+        headers: [Object],
+        rawHeaders: [Array],
+        trailers: {},
+        rawTrailers: [],
+        upgrade: false,
+        url: '',
+        method: null,
+        statusCode: 400,
+        statusMessage: 'Bad Request',
+        client: [Object],
+        _consuming: true,
+        _dumped: false,
+        req: [Circular],
+        responseUrl: 'http://0.0.0.0:80/transactions',
+        redirects: [],
+        read: [Function] },
+     aborted: undefined,
+     timeoutCb: null,
+     upgradeOrConnect: false,
+     parser: null,
+     maxHeadersCount: null,
+     _redirectable: 
+      Writable {
+        _writableState: [Object],
+        writable: true,
+        domain: null,
+        _events: [Object],
+        _eventsCount: 2,
+        _maxListeners: undefined,
+        _options: [Object],
+        _redirectCount: 0,
+        _redirects: [],
+        _requestBodyLength: 289,
+        _requestBodyBuffers: [],
+        _onNativeResponse: [Function],
+        _currentRequest: [Circular],
+        _currentUrl: 'http://0.0.0.0:80/transactions' },
+     [Symbol(outHeadersKey)]: 
+      { accept: [Array],
+        'content-type': [Array],
+        'user-agent': [Array],
+        'content-length': [Array],
+        host: [Array] } },
+  response: 
+   { status: 400,
+     statusText: 'Bad Request',
+     headers: 
+      { 'cache-control': 'no-cache, no-store, max-age=0',
+        'content-type': 'application/problem+json; charset=utf-8',
+        vary: 'Origin',
+        'x-ratelimit-limit': '101',
+        'x-ratelimit-remaining': '99',
+        'x-ratelimit-reset': '1',
+        date: 'Mon, 14 Jan 2019 08:17:55 GMT',
+        'content-length': '821',
+        connection: 'close' },
+     config: 
+      { adapter: [Function: httpAdapter],
+        transformRequest: [Object],
+        transformResponse: [Object],
+        timeout: 60000,
+        xsrfCookieName: 'XSRF-TOKEN',
+        xsrfHeaderName: 'X-XSRF-TOKEN',
+        maxContentLength: -1,
+        validateStatus: [Function: validateStatus],
+        headers: [Object],
+        method: 'post',
+        url: 'http://0.0.0.0:80/transactions',
+        data: 'tx=AAAAAFIiV%2FnxEKYnUHocP0xs6ZjALPMNzb0O%2F0o%2B%2Fx2yFPR8AAAAZAAA0ogAAAABAAAAAAAAAAAAAAABAAAAAAAAAAYAAAABbGQAAAAAAACmjx2WifUDMKq1adZ3MnTUv7%2FpAfI2JSFQzmtMguCT9wAAAAEqBfIAAAAAAAAAAAGyFPR8AAAAQOnuKaE%2FE4NdGZrOON28%2BUisfMcmClCUNW5ZJ%2FKuOpT5XYFdCX7aqELk0uAyaDIXEJYC3uChBtfIdff6QttvuQk%3D' },
+     request: 
+      ClientRequest {
+        domain: null,
+        _events: [Object],
+        _eventsCount: 6,
+        _maxListeners: undefined,
+        output: [],
+        outputEncodings: [],
+        outputCallbacks: [],
+        outputSize: 0,
+        writable: false,
+        _last: true,
+        upgrading: false,
+        chunkedEncoding: false,
+        shouldKeepAlive: false,
+        useChunkedEncodingByDefault: true,
+        sendDate: false,
+        _removedConnection: false,
+        _removedContLen: false,
+        _removedTE: false,
+        _contentLength: null,
+        _hasBody: true,
+        _trailer: '',
+        finished: true,
+        _headerSent: true,
+        socket: [Object],
+        connection: [Object],
+        _header: 'POST /transactions HTTP/1.1\r\nAccept: application/json, text/plain, */*\r\nContent-Type: application/x-www-form-urlencoded\r\nUser-Agent: axios/0.18.0\r\nContent-Length: 289\r\nHost: 0.0.0.0\r\nConnection: close\r\n\r\n',
+        _onPendingData: [Function: noopPendingOutput],
+        agent: [Object],
+        socketPath: undefined,
+        timeout: undefined,
+        method: 'POST',
+        path: '/transactions',
+        _ended: true,
+        res: [Object],
+        aborted: undefined,
+        timeoutCb: null,
+        upgradeOrConnect: false,
+        parser: null,
+        maxHeadersCount: null,
+        _redirectable: [Object],
+        [Symbol(outHeadersKey)]: [Object] },
+     data: 
+      { type: 'https://stellar.org/horizon-errors/transaction_failed',
+        title: 'Transaction Failed',
+        status: 400,
+        detail: 'The transaction failed when submitted to the stellar network. The `extras.result_codes` field on this response contains further details.  Descriptions of each code can be found at: https://www.stellar.org/developers/learn/concepts/list-of-operations.html',
+        extras: [Object] } } }
+(node:2359) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 17): TypeError: Converting circular structure to JSON
+(node:2359) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[0mPOST /api/trust-asset [0m- [0m- ms - -[0m
+[0mPOST /api/payment [32m200 [0m2796.645 ms - 1929[0m
+[0mGET /api/get-balance/GBJCEV7Z6EIKMJ2QPIOD6TDM5GMMALHTBXG32DX7JI7P6HNSCT2HZVL5 [32m200 [0m5.703 ms - 210[0m
+error:  { Error: Request failed with status code 400
+    at createError (/home/stellar-api/node_modules/axios/lib/core/createError.js:16:15)
+    at settle (/home/stellar-api/node_modules/axios/lib/core/settle.js:18:12)
+    at IncomingMessage.handleStreamEnd (/home/stellar-api/node_modules/axios/lib/adapters/http.js:201:11)
+    at emitNone (events.js:110:20)
+    at IncomingMessage.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1059:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  config: 
+   { adapter: [Function: httpAdapter],
+     transformRequest: { '0': [Function: transformRequest] },
+     transformResponse: { '0': [Function: transformResponse] },
+     timeout: 60000,
+     xsrfCookieName: 'XSRF-TOKEN',
+     xsrfHeaderName: 'X-XSRF-TOKEN',
+     maxContentLength: -1,
+     validateStatus: [Function: validateStatus],
+     headers: 
+      { Accept: 'application/json, text/plain, */*',
+        'Content-Type': 'application/x-www-form-urlencoded',
+        'User-Agent': 'axios/0.18.0',
+        'Content-Length': 289 },
+     method: 'post',
+     url: 'http://0.0.0.0:80/transactions',
+     data: 'tx=AAAAAFIiV%2FnxEKYnUHocP0xs6ZjALPMNzb0O%2F0o%2B%2Fx2yFPR8AAAAZAAA0ogAAAABAAAAAAAAAAAAAAABAAAAAAAAAAYAAAABbGQAAAAAAACmjx2WifUDMKq1adZ3MnTUv7%2FpAfI2JSFQzmtMguCT9wAAAAEqBfIAAAAAAAAAAAGyFPR8AAAAQOnuKaE%2FE4NdGZrOON28%2BUisfMcmClCUNW5ZJ%2FKuOpT5XYFdCX7aqELk0uAyaDIXEJYC3uChBtfIdff6QttvuQk%3D' },
+  request: 
+   ClientRequest {
+     domain: null,
+     _events: 
+      { socket: [Function],
+        abort: [Function],
+        aborted: [Function],
+        error: [Function],
+        timeout: [Function],
+        prefinish: [Function: requestOnPrefinish] },
+     _eventsCount: 6,
+     _maxListeners: undefined,
+     output: [],
+     outputEncodings: [],
+     outputCallbacks: [],
+     outputSize: 0,
+     writable: false,
+     _last: true,
+     upgrading: false,
+     chunkedEncoding: false,
+     shouldKeepAlive: false,
+     useChunkedEncodingByDefault: true,
+     sendDate: false,
+     _removedConnection: false,
+     _removedContLen: false,
+     _removedTE: false,
+     _contentLength: null,
+     _hasBody: true,
+     _trailer: '',
+     finished: true,
+     _headerSent: true,
+     socket: 
+      Socket {
+        connecting: false,
+        _hadError: false,
+        _handle: null,
+        _parent: null,
+        _host: null,
+        _readableState: [Object],
+        readable: false,
+        domain: null,
+        _events: [Object],
+        _eventsCount: 8,
+        _maxListeners: undefined,
+        _writableState: [Object],
+        writable: false,
+        allowHalfOpen: false,
+        _bytesDispatched: 493,
+        _sockname: null,
+        _pendingData: null,
+        _pendingEncoding: '',
+        server: null,
+        _server: null,
+        parser: null,
+        _httpMessage: [Circular],
+        read: [Function],
+        _consuming: true,
+        _idleNext: null,
+        _idlePrev: null,
+        _idleTimeout: -1,
+        [Symbol(asyncId)]: 466,
+        [Symbol(bytesRead)]: 1176 },
+     connection: 
+      Socket {
+        connecting: false,
+        _hadError: false,
+        _handle: null,
+        _parent: null,
+        _host: null,
+        _readableState: [Object],
+        readable: false,
+        domain: null,
+        _events: [Object],
+        _eventsCount: 8,
+        _maxListeners: undefined,
+        _writableState: [Object],
+        writable: false,
+        allowHalfOpen: false,
+        _bytesDispatched: 493,
+        _sockname: null,
+        _pendingData: null,
+        _pendingEncoding: '',
+        server: null,
+        _server: null,
+        parser: null,
+        _httpMessage: [Circular],
+        read: [Function],
+        _consuming: true,
+        _idleNext: null,
+        _idlePrev: null,
+        _idleTimeout: -1,
+        [Symbol(asyncId)]: 466,
+        [Symbol(bytesRead)]: 1176 },
+     _header: 'POST /transactions HTTP/1.1\r\nAccept: application/json, text/plain, */*\r\nContent-Type: application/x-www-form-urlencoded\r\nUser-Agent: axios/0.18.0\r\nContent-Length: 289\r\nHost: 0.0.0.0\r\nConnection: close\r\n\r\n',
+     _onPendingData: [Function: noopPendingOutput],
+     agent: 
+      Agent {
+        domain: null,
+        _events: [Object],
+        _eventsCount: 1,
+        _maxListeners: undefined,
+        defaultPort: 80,
+        protocol: 'http:',
+        options: [Object],
+        requests: {},
+        sockets: {},
+        freeSockets: {},
+        keepAliveMsecs: 1000,
+        keepAlive: false,
+        maxSockets: Infinity,
+        maxFreeSockets: 256 },
+     socketPath: undefined,
+     timeout: undefined,
+     method: 'POST',
+     path: '/transactions',
+     _ended: true,
+     res: 
+      IncomingMessage {
+        _readableState: [Object],
+        readable: false,
+        domain: null,
+        _events: [Object],
+        _eventsCount: 3,
+        _maxListeners: undefined,
+        socket: [Object],
+        connection: [Object],
+        httpVersionMajor: 1,
+        httpVersionMinor: 1,
+        httpVersion: '1.1',
+        complete: true,
+        headers: [Object],
+        rawHeaders: [Array],
+        trailers: {},
+        rawTrailers: [],
+        upgrade: false,
+        url: '',
+        method: null,
+        statusCode: 400,
+        statusMessage: 'Bad Request',
+        client: [Object],
+        _consuming: true,
+        _dumped: false,
+        req: [Circular],
+        responseUrl: 'http://0.0.0.0:80/transactions',
+        redirects: [],
+        read: [Function] },
+     aborted: undefined,
+     timeoutCb: null,
+     upgradeOrConnect: false,
+     parser: null,
+     maxHeadersCount: null,
+     _redirectable: 
+      Writable {
+        _writableState: [Object],
+        writable: true,
+        domain: null,
+        _events: [Object],
+        _eventsCount: 2,
+        _maxListeners: undefined,
+        _options: [Object],
+        _redirectCount: 0,
+        _redirects: [],
+        _requestBodyLength: 289,
+        _requestBodyBuffers: [],
+        _onNativeResponse: [Function],
+        _currentRequest: [Circular],
+        _currentUrl: 'http://0.0.0.0:80/transactions' },
+     [Symbol(outHeadersKey)]: 
+      { accept: [Array],
+        'content-type': [Array],
+        'user-agent': [Array],
+        'content-length': [Array],
+        host: [Array] } },
+  response: 
+   { status: 400,
+     statusText: 'Bad Request',
+     headers: 
+      { 'cache-control': 'no-cache, no-store, max-age=0',
+        'content-type': 'application/problem+json; charset=utf-8',
+        vary: 'Origin',
+        'x-ratelimit-limit': '101',
+        'x-ratelimit-remaining': '99',
+        'x-ratelimit-reset': '1',
+        date: 'Mon, 14 Jan 2019 08:20:50 GMT',
+        'content-length': '883',
+        connection: 'close' },
+     config: 
+      { adapter: [Function: httpAdapter],
+        transformRequest: [Object],
+        transformResponse: [Object],
+        timeout: 60000,
+        xsrfCookieName: 'XSRF-TOKEN',
+        xsrfHeaderName: 'X-XSRF-TOKEN',
+        maxContentLength: -1,
+        validateStatus: [Function: validateStatus],
+        headers: [Object],
+        method: 'post',
+        url: 'http://0.0.0.0:80/transactions',
+        data: 'tx=AAAAAFIiV%2FnxEKYnUHocP0xs6ZjALPMNzb0O%2F0o%2B%2Fx2yFPR8AAAAZAAA0ogAAAABAAAAAAAAAAAAAAABAAAAAAAAAAYAAAABbGQAAAAAAACmjx2WifUDMKq1adZ3MnTUv7%2FpAfI2JSFQzmtMguCT9wAAAAEqBfIAAAAAAAAAAAGyFPR8AAAAQOnuKaE%2FE4NdGZrOON28%2BUisfMcmClCUNW5ZJ%2FKuOpT5XYFdCX7aqELk0uAyaDIXEJYC3uChBtfIdff6QttvuQk%3D' },
+     request: 
+      ClientRequest {
+        domain: null,
+        _events: [Object],
+        _eventsCount: 6,
+        _maxListeners: undefined,
+        output: [],
+        outputEncodings: [],
+        outputCallbacks: [],
+        outputSize: 0,
+        writable: false,
+        _last: true,
+        upgrading: false,
+        chunkedEncoding: false,
+        shouldKeepAlive: false,
+        useChunkedEncodingByDefault: true,
+        sendDate: false,
+        _removedConnection: false,
+        _removedContLen: false,
+        _removedTE: false,
+        _contentLength: null,
+        _hasBody: true,
+        _trailer: '',
+        finished: true,
+        _headerSent: true,
+        socket: [Object],
+        connection: [Object],
+        _header: 'POST /transactions HTTP/1.1\r\nAccept: application/json, text/plain, */*\r\nContent-Type: application/x-www-form-urlencoded\r\nUser-Agent: axios/0.18.0\r\nContent-Length: 289\r\nHost: 0.0.0.0\r\nConnection: close\r\n\r\n',
+        _onPendingData: [Function: noopPendingOutput],
+        agent: [Object],
+        socketPath: undefined,
+        timeout: undefined,
+        method: 'POST',
+        path: '/transactions',
+        _ended: true,
+        res: [Object],
+        aborted: undefined,
+        timeoutCb: null,
+        upgradeOrConnect: false,
+        parser: null,
+        maxHeadersCount: null,
+        _redirectable: [Object],
+        [Symbol(outHeadersKey)]: [Object] },
+     data: 
+      { type: 'https://stellar.org/horizon-errors/transaction_failed',
+        title: 'Transaction Failed',
+        status: 400,
+        detail: 'The transaction failed when submitted to the stellar network. The `extras.result_codes` field on this response contains further details.  Descriptions of each code can be found at: https://www.stellar.org/developers/learn/concepts/list-of-operations.html',
+        extras: [Object] } } }
+(node:2359) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 21): TypeError: Converting circular structure to JSON
+[0mPOST /api/trust-asset [0m- [0m- ms - -[0m
+[0mPOST /api/payment [32m200 [0m3710.044 ms - 1929[0m
+error:  { Error: Request failed with status code 400
+    at createError (/home/stellar-api/node_modules/axios/lib/core/createError.js:16:15)
+    at settle (/home/stellar-api/node_modules/axios/lib/core/settle.js:18:12)
+    at IncomingMessage.handleStreamEnd (/home/stellar-api/node_modules/axios/lib/adapters/http.js:201:11)
+    at emitNone (events.js:110:20)
+    at IncomingMessage.emit (events.js:207:7)
+    at endReadableNT (_stream_readable.js:1059:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+  config: 
+   { adapter: [Function: httpAdapter],
+     transformRequest: { '0': [Function: transformRequest] },
+     transformResponse: { '0': [Function: transformResponse] },
+     timeout: 60000,
+     xsrfCookieName: 'XSRF-TOKEN',
+     xsrfHeaderName: 'X-XSRF-TOKEN',
+     maxContentLength: -1,
+     validateStatus: [Function: validateStatus],
+     headers: 
+      { Accept: 'application/json, text/plain, */*',
+        'Content-Type': 'application/x-www-form-urlencoded',
+        'User-Agent': 'axios/0.18.0',
+        'Content-Length': 287 },
+     method: 'post',
+     url: 'http://0.0.0.0:80/transactions',
+     data: 'tx=AAAAAFIiV%2FnxEKYnUHocP0xs6ZjALPMNzb0O%2F0o%2B%2Fx2yFPR8AAAAZAAA0ogAAAACAAAAAAAAAAAAAAABAAAAAAAAAAYAAAABbGQAAAAAAACmjx2WifUDMKq1adZ3MnTUv7%2FpAfI2JSFQzmtMguCT9wAAAAEqBfIAAAAAAAAAAAGyFPR8AAAAQEGrPgn9DgNMpZgA2AcNZn2CpDIRV7uU02wBFBYadoOTFqmorekwibSrU%2FG24wHMH9FR5bN%2FZp6Bra3Jydd46wI%3D' },
+  request: 
+   ClientRequest {
+     domain: null,
+     _events: 
+      { socket: [Function],
+        abort: [Function],
+        aborted: [Function],
+        error: [Function],
+        timeout: [Function],
+        prefinish: [Function: requestOnPrefinish] },
+     _eventsCount: 6,
+     _maxListeners: undefined,
+     output: [],
+     outputEncodings: [],
+     outputCallbacks: [],
+     outputSize: 0,
+     writable: false,
+     _last: true,
+     upgrading: false,
+     chunkedEncoding: false,
+     shouldKeepAlive: false,
+     useChunkedEncodingByDefault: true,
+     sendDate: false,
+     _removedConnection: false,
+     _removedContLen: false,
+     _removedTE: false,
+     _contentLength: null,
+     _hasBody: true,
+     _trailer: '',
+     finished: true,
+     _headerSent: true,
+     socket: 
+      Socket {
+        connecting: false,
+        _hadError: false,
+        _handle: null,
+        _parent: null,
+        _host: null,
+        _readableState: [Object],
+        readable: false,
+        domain: null,
+        _events: [Object],
+        _eventsCount: 8,
+        _maxListeners: undefined,
+        _writableState: [Object],
+        writable: false,
+        allowHalfOpen: false,
+        _bytesDispatched: 491,
+        _sockname: null,
+        _pendingData: null,
+        _pendingEncoding: '',
+        server: null,
+        _server: null,
+        parser: null,
+        _httpMessage: [Circular],
+        read: [Function],
+        _consuming: true,
+        _idleNext: null,
+        _idlePrev: null,
+        _idleTimeout: -1,
+        [Symbol(asyncId)]: 561,
+        [Symbol(bytesRead)]: 1176 },
+     connection: 
+      Socket {
+        connecting: false,
+        _hadError: false,
+        _handle: null,
+        _parent: null,
+        _host: null,
+        _readableState: [Object],
+        readable: false,
+        domain: null,
+        _events: [Object],
+        _eventsCount: 8,
+        _maxListeners: undefined,
+        _writableState: [Object],
+        writable: false,
+        allowHalfOpen: false,
+        _bytesDispatched: 491,
+        _sockname: null,
+        _pendingData: null,
+        _pendingEncoding: '',
+        server: null,
+        _server: null,
+        parser: null,
+        _httpMessage: [Circular],
+        read: [Function],
+        _consuming: true,
+        _idleNext: null,
+        _idlePrev: null,
+        _idleTimeout: -1,
+        [Symbol(asyncId)]: 561,
+        [Symbol(bytesRead)]: 1176 },
+     _header: 'POST /transactions HTTP/1.1\r\nAccept: application/json, text/plain, */*\r\nContent-Type: application/x-www-form-urlencoded\r\nUser-Agent: axios/0.18.0\r\nContent-Length: 287\r\nHost: 0.0.0.0\r\nConnection: close\r\n\r\n',
+     _onPendingData: [Function: noopPendingOutput],
+     agent: 
+      Agent {
+        domain: null,
+        _events: [Object],
+        _eventsCount: 1,
+        _maxListeners: undefined,
+        defaultPort: 80,
+        protocol: 'http:',
+        options: [Object],
+        requests: {},
+        sockets: {},
+        freeSockets: {},
+        keepAliveMsecs: 1000,
+        keepAlive: false,
+        maxSockets: Infinity,
+        maxFreeSockets: 256 },
+     socketPath: undefined,
+     timeout: undefined,
+     method: 'POST',
+     path: '/transactions',
+     _ended: true,
+     res: 
+      IncomingMessage {
+        _readableState: [Object],
+        readable: false,
+        domain: null,
+        _events: [Object],
+        _eventsCount: 3,
+        _maxListeners: undefined,
+        socket: [Object],
+        connection: [Object],
+        httpVersionMajor: 1,
+        httpVersionMinor: 1,
+        httpVersion: '1.1',
+        complete: true,
+        headers: [Object],
+        rawHeaders: [Array],
+        trailers: {},
+        rawTrailers: [],
+        upgrade: false,
+        url: '',
+        method: null,
+        statusCode: 400,
+        statusMessage: 'Bad Request',
+        client: [Object],
+        _consuming: true,
+        _dumped: false,
+        req: [Circular],
+        responseUrl: 'http://0.0.0.0:80/transactions',
+        redirects: [],
+        read: [Function] },
+     aborted: undefined,
+     timeoutCb: null,
+     upgradeOrConnect: false,
+     parser: null,
+     maxHeadersCount: null,
+     _redirectable: 
+      Writable {
+        _writableState: [Object],
+        writable: true,
+        domain: null,
+        _events: [Object],
+        _eventsCount: 2,
+        _maxListeners: undefined,
+        _options: [Object],
+        _redirectCount: 0,
+        _redirects: [],
+        _requestBodyLength: 287,
+        _requestBodyBuffers: [],
+        _onNativeResponse: [Function],
+        _currentRequest: [Circular],
+        _currentUrl: 'http://0.0.0.0:80/transactions' },
+     [Symbol(outHeadersKey)]: 
+      { accept: [Array],
+        'content-type': [Array],
+        'user-agent': [Array],
+        'content-length': [Array],
+        host: [Array] } },
+  response: 
+   { status: 400,
+     statusText: 'Bad Request',
+     headers: 
+      { 'cache-control': 'no-cache, no-store, max-age=0',
+        'content-type': 'application/problem+json; charset=utf-8',
+        vary: 'Origin',
+        'x-ratelimit-limit': '101',
+        'x-ratelimit-remaining': '99',
+        'x-ratelimit-reset': '1',
+        date: 'Mon, 14 Jan 2019 08:21:10 GMT',
+        'content-length': '883',
+        connection: 'close' },
+     config: 
+      { adapter: [Function: httpAdapter],
+        transformRequest: [Object],
+        transformResponse: [Object],
+        timeout: 60000,
+        xsrfCookieName: 'XSRF-TOKEN',
+        xsrfHeaderName: 'X-XSRF-TOKEN',
+        maxContentLength: -1,
+        validateStatus: [Function: validateStatus],
+        headers: [Object],
+        method: 'post',
+        url: 'http://0.0.0.0:80/transactions',
+        data: 'tx=AAAAAFIiV%2FnxEKYnUHocP0xs6ZjALPMNzb0O%2F0o%2B%2Fx2yFPR8AAAAZAAA0ogAAAACAAAAAAAAAAAAAAABAAAAAAAAAAYAAAABbGQAAAAAAACmjx2WifUDMKq1adZ3MnTUv7%2FpAfI2JSFQzmtMguCT9wAAAAEqBfIAAAAAAAAAAAGyFPR8AAAAQEGrPgn9DgNMpZgA2AcNZn2CpDIRV7uU02wBFBYadoOTFqmorekwibSrU%2FG24wHMH9FR5bN%2FZp6Bra3Jydd46wI%3D' },
+     request: 
+      ClientRequest {
+        domain: null,
+        _events: [Object],
+        _eventsCount: 6,
+        _maxListeners: undefined,
+        output: [],
+        outputEncodings: [],
+        outputCallbacks: [],
+        outputSize: 0,
+        writable: false,
+        _last: true,
+        upgrading: false,
+        chunkedEncoding: false,
+        shouldKeepAlive: false,
+        useChunkedEncodingByDefault: true,
+        sendDate: false,
+        _removedConnection: false,
+        _removedContLen: false,
+        _removedTE: false,
+        _contentLength: null,
+        _hasBody: true,
+        _trailer: '',
+        finished: true,
+        _headerSent: true,
+        socket: [Object],
+        connection: [Object],
+        _header: 'POST /transactions HTTP/1.1\r\nAccept: application/json, text/plain, */*\r\nContent-Type: application/x-www-form-urlencoded\r\nUser-Agent: axios/0.18.0\r\nContent-Length: 287\r\nHost: 0.0.0.0\r\nConnection: close\r\n\r\n',
+        _onPendingData: [Function: noopPendingOutput],
+        agent: [Object],
+        socketPath: undefined,
+        timeout: undefined,
+        method: 'POST',
+        path: '/transactions',
+        _ended: true,
+        res: [Object],
+        aborted: undefined,
+        timeoutCb: null,
+        upgradeOrConnect: false,
+        parser: null,
+        maxHeadersCount: null,
+        _redirectable: [Object],
+        [Symbol(outHeadersKey)]: [Object] },
+     data: 
+      { type: 'https://stellar.org/horizon-errors/transaction_failed',
+        title: 'Transaction Failed',
+        status: 400,
+        detail: 'The transaction failed when submitted to the stellar network. The `extras.result_codes` field on this response contains further details.  Descriptions of each code can be found at: https://www.stellar.org/developers/learn/concepts/list-of-operations.html',
+        extras: [Object] } } }
+(node:2359) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 25): TypeError: Converting circular structure to JSON
+[0mPOST /api/trust-asset [0m- [0m- ms - -[0m
+[0mPOST /api/payment [32m200 [0m1589.265 ms - 1927[0m
+[0mGET /api/get-balance/GBJCEV7Z6EIKMJ2QPIOD6TDM5GMMALHTBXG32DX7JI7P6HNSCT2HZVL5 [32m200 [0m5.994 ms - 210[0m
+[0mPOST /api/trust-asset [32m200 [0m638.480 ms - 1908[0m
+[0mGET /api/get-balance/GBJCEV7Z6EIKMJ2QPIOD6TDM5GMMALHTBXG32DX7JI7P6HNSCT2HZVL5 [32m200 [0m7.025 ms - 447[0m
+[0mGET /api/get-balance/GCTI6HMWRH2QGMFKWVU5M5ZSOTKL7P7JAHZDMJJBKDHGWTEC4CJ7O3DU [32m200 [0m5.129 ms - 211[0m
+[0mGET /api/get-balance/GBJCEV7Z6EIKMJ2QPIOD6TDM5GMMALHTBXG32DX7JI7P6HNSCT2HZVL5 [32m200 [0m5.658 ms - 447[0m
+[0mPOST /api/payment [33m404 [0m12.203 ms - 356[0m
+[0mPOST /api/payment [33m404 [0m11.675 ms - 354[0m
+[0mPOST /api/payment [33m404 [0m15.714 ms - 356[0m
+[0mPOST /api/payment [33m404 [0m16.073 ms - 354[0m
+[0mPOST /api/payment [33m404 [0m10.964 ms - 340[0m
+[0mPOST /api/payment [33m404 [0m13.085 ms - 338[0m
+[0mPOST /api/payment [33m404 [0m12.138 ms - 356[0m
+[0mPOST /api/payment [33m404 [0m10.694 ms - 356[0m
+[0mPOST /api/payment [33m404 [0m11.371 ms - 348[0m
+[0mGET /api/get-balance/GBZXN7PIRZGNMHGA7MUUUF4GWPY5AYPV6LY4UV2GL6VJGIQRXFDNMADI [32m200 [0m6.717 ms - 700[0m
+[0mGET /api/get-balance/GBJCEV7Z6EIKMJ2QPIOD6TDM5GMMALHTBXG32DX7JI7P6HNSCT2HZVL5 [32m200 [0m6.673 ms - 447[0m
+catch error missing seed needed for creating, signing and sending transaction
+[0mPOST /api/payment [33m404 [0m0.589 ms - 337[0m
+catch error missing seed needed for creating, signing and sending transaction
+[0mPOST /api/payment [33m404 [0m0.442 ms - 11[0m
+[0mPOST /api/payment [33m404 [0m11.224 ms - 360[0m
+[0mPOST /api/payment [33m404 [0m12.585 ms - 354[0m
+[0mGET /api/generate-seed [32m200 [0m5.762 ms - 138[0m
+[0mPOST /api/payment [33m404 [0m12.730 ms - 344[0m
+[0mPOST /api/payment [33m404 [0m11.595 ms - 344[0m
+[0mPOST /api/payment [33m404 [0m12.241 ms - 344[0m
+[0mPOST /api/payment [33m404 [0m13.614 ms - 342[0m
+[0mPOST /api/payment [33m404 [0m11.062 ms - 338[0m
+[0mPOST /api/payment [33m404 [0m10.690 ms - 346[0m
+[0mPOST /api/payment [33m404 [0m10.756 ms - 354[0m
+[0mPOST /api/payment [33m400 [0m5.457 ms - 823[0m
+[0mGET /api/generate-seed [32m200 [0m5.605 ms - 138[0m
+[0mGET /api/get-balance/GBJCEV7Z6EIKMJ2QPIOD6TDM5GMMALHTBXG32DX7JI7P6HNSCT2HZVL5 [32m200 [0m7.727 ms - 447[0m
+[0mPOST /api/payment [33m404 [0m11.374 ms - 354[0m
+[0mPOST /api/payment [33m404 [0m12.825 ms - 354[0m
+[0mGET /api/generate-seed [32m200 [0m5.765 ms - 138[0m
+[0mPOST /api/payment [33m404 [0m11.223 ms - 340[0m
+[0mPOST /api/payment [33m404 [0m11.543 ms - 338[0m
+[0mGET /api/generate-seed [32m200 [0m5.522 ms - 138[0m
+[0mPOST /api/payment [33m404 [0m11.267 ms - 340[0m
+[0mPOST /api/payment [33m404 [0m11.128 ms - 340[0m
+[0mPOST /api/payment [32m200 [0m1710.025 ms - 1944[0m
+[0mGET /api/generate-seed [32m200 [0m5.779 ms - 138[0m
+[0mPOST /api/orderbook [31m500 [0m1.745 ms - 2004[0m
+[0mPOST /api/orderbook [31m500 [0m1.418 ms - 2085[0m
+[0mGET /api/generate-seed [32m200 [0m5.420 ms - 138[0m
+[0mPOST /api/orderbook [31m500 [0m1.034 ms - 2085[0m
+(node:2359) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 76): TypeError: Cannot read property 'data' of undefined
+[0mPOST /api/create-offer [0m- [0m- ms - -[0m
+(node:2359) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 79): TypeError: Cannot read property 'data' of undefined
+[0mPOST /api/create-offer [0m- [0m- ms - -[0m
+(node:2359) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 82): TypeError: Cannot read property 'data' of undefined
+[0mPOST /api/create-offer [0m- [0m- ms - -[0m
+[0mGET /api/get-balance/GBJCEV7Z6EIKMJ2QPIOD6TDM5GMMALHTBXG32DX7JI7P6HNSCT2HZVL5 [32m200 [0m6.820 ms - 447[0m
+[0mGET /api/get-balance/GBZXN7PIRZGNMHGA7MUUUF4GWPY5AYPV6LY4UV2GL6VJGIQRXFDNMADI [32m200 [0m7.490 ms - 700[0m
+(node:2359) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 85): TypeError: Cannot read property 'data' of undefined
+[0mPOST /api/create-offer [0m- [0m- ms - -[0m
+[0mPOST /api/payment [33m404 [0m12.409 ms - 356[0m
+[0mPOST /api/payment [33m404 [0m11.572 ms - 269[0m
+[0mPOST /api/payment [32m200 [0m3227.241 ms - 2025[0m
+[0mGET /api/get-balance/GBZXN7PIRZGNMHGA7MUUUF4GWPY5AYPV6LY4UV2GL6VJGIQRXFDNMADI [32m200 [0m5.197 ms - 700[0m
+[0mGET /api/get-balance/GBJCEV7Z6EIKMJ2QPIOD6TDM5GMMALHTBXG32DX7JI7P6HNSCT2HZVL5 [32m200 [0m5.677 ms - 447[0m
+[0mPOST /api/payment [32m200 [0m4873.767 ms - 2025[0m
+catch error missing seed needed for creating, signing and sending transaction
+[0mPOST /api/payment [33m404 [0m1.840 ms - 337[0m
+catch error missing seed needed for creating, signing and sending transaction
+[0mPOST /api/payment [33m404 [0m0.576 ms - 339[0m
+[0mPOST /api/payment [33m404 [0m11.268 ms - 269[0m
+[0mPOST /api/payment [33m404 [0m10.744 ms - 338[0m
