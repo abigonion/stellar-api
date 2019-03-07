@@ -3,7 +3,7 @@
     "connectApi": "mainnet",
     "local":{
       "url": "http://0.0.0.0:80",
-      "fallbackUrl": "http://http://ld.baas21.cn",
+      "fallbackUrl": "http://ld.baas21.cn",
       "networkName": "docker",
       "networkType": "testnet"
     },
@@ -13,7 +13,7 @@
       "networkType": "testnet"
     },
     "mainnet":{
-      "url": "http://0.0.0.0:80/",
+      "url": "http://ld.baas21.cn/",
       "fallbackUrl": "http://ld.baas21.cn/",
       "networkName": "stellar",
       "networkType": "mainnet"
