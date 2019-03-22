@@ -1,0 +1,79 @@
+{
+"_meta": {
+"start": 1551944410,
+"startISO": "Thu Mar 07 2019 07:40:10 GMT+0000 (UTC)",
+"apiLicense": "Apache-2.0",
+"externalPrices": {
+"USD_BTC": 3891.71,
+"BTC_XLM": 0.00002185,
+"USD_XLM": 0.085034,
+"USD_XLM_24hAgo": 0.084552,
+"USD_XLM_change": 0.57
+},
+"horizon": {
+"core_latest_ledger": 364123,
+"network_passphrase": "Standalone Network ; February 2017"
+},
+"stellarTermVersion": "1045"
+},
+"assets": [
+{
+"id": "CAR-native",
+"code": "CAR",
+"issuer": null,
+"domain": "native",
+"slug": "CAR-native",
+"website": "https://www.stellar.org/lumens/",
+"price_XLM": 1,
+"price_USD": 0.085034,
+"volume24h_XLM": 3263753.21,
+"volume24h_USD": 277530,
+"activityScore": 100
+},{
+"id": "Syanta-GCTI6HMWRH2QGMFKWVU5M5ZSOTKL7P7JAHZDMJJBKDHGWTEC4CJ7O3DU",
+"code": "Syanta",
+"issuer": "GCTI6HMWRH2QGMFKWVU5M5ZSOTKL7P7JAHZDMJJBKDHGWTEC4CJ7O3DU",
+"domain": "smartlands.io",
+"slug": "Syanta-GCTI6HMWRH2QGMFKWVU5M5ZSOTKL7P7JAHZDMJJBKDHGWTEC4CJ7O3DU",
+"website": "https://smartlands.io",
+"topTradePairSlug": "Syanta-GCTI6HMWRH2QGMFKWVU5M5ZSOTKL7P7JAHZDMJJBKDHGWTEC4CJ7O3DU/CAR-native",
+"change24h_XLM": 0.17,
+"change24h_USD": 0.74,
+"price_XLM": 42.541,
+"price_USD": 3.6174,
+"numTrades24h": 633,
+"_numTradeRecords24h": 66,
+"volume24h_XLM": 694612.41,
+"volume24h_USD": 59065.67,
+"spread": 0.0028,
+"numBids": 20,
+"numAsks": 20,
+"depth10_XLM": 900,
+"depth10_USD": 76.531,
+"activityScore": 28.497
+},
+{
+"id": "SLT-GCKA6K5PCQ6PNF5RQBF7PQDJWRHO6UOGFMRLK3DYHDOI244V47XKQ4GP",
+"code": "SLT",
+"issuer": "GCKA6K5PCQ6PNF5RQBF7PQDJWRHO6UOGFMRLK3DYHDOI244V47XKQ4GP",
+"domain": "smartlands.io",
+"slug": "SLT-smartlands.io",
+"website": "https://smartlands.io",
+"topTradePairSlug": "SLT-smartlands.io/XLM-native",
+"change24h_XLM": 2.84,
+"change24h_USD": -1.45,
+"price_XLM": 44.994,
+"price_USD": 4.7232,
+"numTrades24h": 472,
+"_numTradeRecords24h": 65,
+"volume24h_XLM": 903674.47,
+"volume24h_USD": 94862.32,
+"spread": 0.0002,
+"numBids": 20,
+"numAsks": 20,
+"depth10_XLM": 2511,
+"depth10_USD": 263.59,
+"activityScore": 29.749
+}
+]
+}
