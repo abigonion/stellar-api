@@ -74,6 +74,29 @@
 "depth10_XLM": 2511,
 "depth10_USD": 263.59,
 "activityScore": 29.749
+},
+  {
+"id": "EXM-GCKA6K5PCQ6PNF5RQBF7PQDJWRHO6UOGFMRLK3DYHDOI244V47XKQ4GP",
+"code": "EXM",
+"issuer": "GCKA6K5PCQ6PNF5RQBF7PQDJWRHO6UOGFMRLK3DYHDOI244V47XKQ4GP",
+"domain": "exmple.io",
+"slug": "EXM-exmple.io",
+"website": "https://exmple.io",
+"topTradePairSlug": "EXM-exmple.io/XLM-native",
+"change24h_XLM": 2.84,
+"change24h_USD": -1.45,
+"price_XLM": 44.994,
+"price_USD": 4.7232,
+"numTrades24h": 472,
+"_numTradeRecords24h": 65,
+"volume24h_XLM": 903674.47,
+"volume24h_USD": 94862.32,
+"spread": 0.0002,
+"numBids": 20,
+"numAsks": 20,
+"depth10_XLM": 2511,
+"depth10_USD": 263.59,
+"activityScore": 29.749
 }
 ]
 }
